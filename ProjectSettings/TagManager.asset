@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - bounds
+  - ground
+  - player
+  - stairs
+  - ladder
+  - feno
+  - victory
+  - antiafk
+  - obstacle
+  - aaa
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - stairs
+  - player
+  - ladder
+  - ground
+  - score
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - interfacezinha
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ground
+    uniqueID: 3949466993
+    locked: 0
+  - name: stairs
+    uniqueID: 138828703
+    locked: 0
+  - name: ladder
+    uniqueID: 4247483849
+    locked: 0
+  - name: player
+    uniqueID: 360447783
+    locked: 0
+  - name: obstacle
+    uniqueID: 2074717313
+    locked: 0
